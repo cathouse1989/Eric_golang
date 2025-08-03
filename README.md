@@ -1,2 +1,2 @@
 # Eric_golang
-golang基础语法学习记录
+golang基础语法学习
